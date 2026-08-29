@@ -1,0 +1,9 @@
+source_file,line_number,email,transaction_id
+server.log,1,emma@example.com,TXN-20260829-005
+server.log,2,frank@example.net,TXN-20260829-006
+server.log,3,,TXN-20260829-007
+transactions.log,1,alice@example.com,TXN-20260828-001
+transactions.log,2,bob.smith@company.org,TXN-20260828-002
+transactions.log,3,,TXN-20260828-003
+transactions.log,4,carol@shop.net,
+transactions.log,5,dan@example.com,TXN-20260828-004
